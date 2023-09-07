@@ -1,2 +1,3 @@
 # T-ShirtDesign
-AI Powered T-Shirt Designing Website
+AI Powered T-Shirt Designing Web Application
+
